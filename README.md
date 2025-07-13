@@ -1,6 +1,21 @@
-# Predictive Maintenance Pipeline
+## Agentic-AI
+This repository is dedicated to exploring, building, and experimenting with the Agentic AI.
 
+## Predictive Maintenance Pipeline
 This project implements a predictive maintenance pipeline using a modular, agent-based architecture. It leverages sensor data to predict failures, diagnose issues, retrieve relevant documentation, and provide actionable recommendations.
+
+#Overview
+
+The pipeline takes in sensor data, diagnoses potential component failures, retrieves supporting documentation (like SOPs or historical maintenance logs), and generates actionable maintenance recommendations — including urgency level, next steps, and follow-up scheduling.
+
+#Features
+
+✅ Sensor-based failure probability prediction
+✅ Diagnosis of component and failure reason
+✅ Document retrieval for evidence-backed recommendations
+✅ LLaMA3-powered maintenance advisory agent (via Groq)
+✅ LangGraph orchestration
+✅ Easily extendable and modular
 
 ## Project Structure
 
