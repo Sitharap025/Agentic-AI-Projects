@@ -1,0 +1,25 @@
+Standard Operating Procedure: Oil System Maintenance
+Version: 1.3 | Last Updated: 2023-12-18
+
+Objective:
+Ensure oil systems remain contaminant-free and operate under optimal pressure conditions.
+
+Weekly Routine:
+- Inspect oil levels and check for discoloration
+- Monitor pressure gauges for irregular spikes
+- Use dipstick test to check for metal residue
+- Verify seals are intact and dry
+
+Monthly Tasks:
+- Conduct full oil sample analysis
+- Check pump and valve wear
+- Review pressure trends in monitoring logs
+
+Critical Replacement:
+- Replace oil every 200 days OR
+- Immediately if viscosity drops by 15% OR
+- After exposure to abnormal temperature or contamination
+
+Approved Oil Types:
+- Grade 68 (standard)
+- Grade 100 (high-load conditions)

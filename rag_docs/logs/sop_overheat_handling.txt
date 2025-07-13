@@ -1,0 +1,18 @@
+Standard Operating Procedure: Overheat Event Handling
+Version: 2.0 | Last Updated: 2024-03-12
+
+Objective:
+Guide operators through steps to manage overheating equipment conditions safely and efficiently.
+
+Steps:
+1. Immediately reduce machine load by 30–50%
+2. Check air vents and cooling fans for blockage
+3. Initiate active cooling system if available
+4. Log temperature and RPM readings
+5. Notify the maintenance engineer if temp exceeds 80°C
+6. Resume normal operations only after full inspection and written clearance
+
+Preventive Tips:
+- Clean air filters weekly
+- Do not exceed recommended RPM
+- Replace cooling fluids every 90 days

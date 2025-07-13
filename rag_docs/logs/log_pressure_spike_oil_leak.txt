@@ -1,0 +1,19 @@
+Incident Date: 2024-01-15
+Machine ID: M006
+
+Symptom:
+- Sudden pressure spikes in the hydraulic system
+- Oil leakage near valve junctions
+- Slight drop in overall performance
+
+Diagnosis:
+Oil seal degradation led to pressure imbalances within the system. Contaminants in the oil possibly caused erosion near key seals and valves.
+
+Actions Taken:
+1. Oil system flushed and replaced with high-viscosity grade
+2. Damaged seals and gaskets replaced
+3. Leak detection protocol updated
+4. Weekly oil sampling implemented
+
+Resolution Time: 2.5 hours
+Failure Severity: High

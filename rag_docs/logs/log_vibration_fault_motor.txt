@@ -1,0 +1,19 @@
+Incident Date: 2023-09-21
+Machine ID: M004
+
+Symptom:
+- Continuous vibration alert triggered
+- Audible rattling from motor housing
+- Slight misalignment in belt drive
+
+Diagnosis:
+Motor misalignment due to loose mounting bolts caused sustained vibrations. Prolonged exposure could have damaged the bearings.
+
+Actions Taken:
+1. Realigned motor shaft and retightened mounts
+2. Replaced worn bearings
+3. Vibration dampening pads installed
+4. Alert threshold adjusted in monitoring system
+
+Resolution Time: 3 hours
+Failure Severity: High
