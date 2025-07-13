@@ -12,3 +12,7 @@ prefect
 transformers
 lanchain-community
 langgraph
+python-dotenv
+langchain-groq
+langchain-openai
+
